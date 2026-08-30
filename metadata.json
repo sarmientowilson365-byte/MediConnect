@@ -1,0 +1,11 @@
+{
+  "name": "MediConnect - Dashboard del Paciente",
+  "description": "Plataforma web de telemedicina y salud digital para agendar citas, consultar historial médico, descargar recetas digitales, monitorear signos vitales y gestionar pagos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
